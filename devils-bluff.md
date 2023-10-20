@@ -14,6 +14,10 @@ As fervent discussions reached a crescendo, the very foundations of the town tre
 
 As the new day dawned, a new chapter started in Devils Bluff—one of opportunity and treacherous ambition. The high and mighty had fallen, silenced by the cruel hand of fate. A power vacuum emerged, leaving the workers, the small-time gangs, the hired thugs, and the few righteous souls to vie for control over the remnants of the fractured town. Each faction harbored its own desires—for power, for wealth, for the restoration of law and order, and everyone must choose a side.
 
+
+
+
+
 # Module Rules
 
 ## Playing Devil's Bluff
@@ -79,6 +83,10 @@ Counter rolls have the following modified values for drawing cards:
 | Special Rule | Effect |
 | :----------- | :----- |
 | Longshot | This weapon may double it's Range, but it reduces its Attacks to 1. |
+
+
+
+
 
 # Gangs
 
