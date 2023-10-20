@@ -22,7 +22,7 @@ Devil's Bluff requires a battlefield around 2ft by 3ft, or something with a simi
 
 ## The Deck
 
-Instead of six sided dice, Devils Bluff uses a standard deck of 52 playing cards, with Jokers removed, to determine success and failure of actions. At the start of the game, shuffle a deck of cards and place it in reach of all players, this is The Deck. Any time an action would require you to roll a dice the player instead draws a card and then reveals it to the other player, taking the value of the card as their "roll". Cards are numbered according to their value regardless of suit with the Jack, Queen, and King having a value of 11, 12, and 13 respectively.
+Instead of six sided dice, Devils Bluff uses a standard deck of 52 playing cards, with Jokers removed, to determine success and failure of actions. All 'rolls' in the game are referred to as 'draws' in this game. At the start of the game, shuffle a deck of cards and place it in reach of all players, this is The Deck. Any time an action would require you to roll a dice the player instead draws a card and then reveals it to the other player, taking the value of the card as their "roll". Cards are numbered according to their value regardless of suit with the Jack, Queen, and King having a value of 11, 12, and 13 respectively.
 
 If a player is required to draw a certain value to but fails to do so, they may have an additional chance for success. If the player has a sequence of 2 or 3 cards (i.e. numbers in the same suit in order such as the 2, 3, and 4 of clubs) or they have 2 or 3 of the same value card, and these combined equal the value required, this will count as a single success.
 
@@ -33,6 +33,17 @@ At the start of the game, after shuffling the deck, each player draws 3 cards, k
 ## Cover
 
 It is advised to count all solid terrain, such as walls, rocks, barrels, etc as having the **Cover** keyword while softer terrain such as fences or plants will only obscure line of sight.
+
+## Horses
+
+A model that is mounted on a horse gains a number of benefits detailed below. A model on a horse may dismount at the start of any activation, removing these benefits, but may not again mount their horse for the remainder of the game.
+
+A model on a horse has the following changes:
+
+- Increased Movement to 12"
+- +1 to their Attack Draws against models at the same or lower height level.
+- Mounted models treat climbable terrain as impassable.
+- A mounted model does not gain the benefit of the Cover terrain keyword.
 
 ## Injuries 
 
@@ -63,7 +74,11 @@ Counter rolls have the following modified values for drawing cards:
 | Damage is higher than Toughness              | 11+          |
 | Damage is double, or higher, than Toughness  | 13           |
 
-## Horses
+## Special Rules
+
+| Special Rule | Effect |
+| :----------- | :----- |
+| Longshot | This weapon may double it's Range, but it reduces its Attacks to 1. |
 
 # Gangs
 
@@ -107,3 +122,9 @@ In order to play Devils Bluff you will need to put together a gang. Each player 
 | Shotgun    | 8"  |  3  |  3  |  3  | Accurate                | 3    |
 | Knife      | 1"  |  2  |  3  |  1  | Assault                 | 1    |
 | Fists      | 1"  |  1  |  2  |  0  | Assault                 | 0    |
+
+## Equipment
+
+| Equipment | Effect |
+| :-------- | :----- |
+| Horse | This model gains the benefits of being mounted on a horse as outlined above. 
