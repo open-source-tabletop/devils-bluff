@@ -83,6 +83,9 @@ Counter rolls have the following modified values for drawing cards:
 | Special Rule | Effect |
 | :----------- | :----- |
 | Longshot | This weapon may double it's Range, but it reduces its Attacks to 1. |
+| Leader | This model, and friendly models within 6 inches always pass the check when activating with 1 Command Point. |
+| Rookie | When making draws with this model, you may not exchange cards with those in your hand. |
+| Gunfighter | This model may make 2 attack actions in a row when using a Revolver if it does not move during its activation. |
 
 
 
@@ -90,7 +93,7 @@ Counter rolls have the following modified values for drawing cards:
 
 # Gangs
 
-In order to play Devils Bluff you will need to put together a gang. Each player has 100 dollars with which to hire gunmen and pay for their weapons and equipment. Choose models and equipment from the list below, note that some restrictions apply:
+In order to play Devils Bluff you will need to put together a gang. Each player has 150 dollars with which to hire gunmen and pay for their weapons and equipment. Choose models and equipment from the list below, note that some restrictions apply:
 
 - You are required to include only 1 Leader model in your gang.
 - You can include up to 2 Legends in your gang.
@@ -101,38 +104,59 @@ In order to play Devils Bluff you will need to put together a gang. Each player 
 
 | Model      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules      |
 | :--------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------- |
-| Leader     |  6  |  4" |  6+ | 10+ |  3  |  3  |                    |
+| Leader     |  6  |  4" |  6+ | 10+ |  3  |  3  | Leader, Gunfighter |
 
-## 0-2 Legends - 15 Dollars each
+This model may take up to 20 dollars of **weapons**, **equipment** and **upgrades**.
+
+## 0-2 Legends - 16 Dollars each
 
 | Model      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules      |
 | :--------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------- |
-| Legend     |  5  |  4" |  7+ | 10+ |  3  |  2  |                    |
+| Legend     |  5  |  4" |  7+ | 10+ |  3  |  2  | Gunfighter         |
 
-## 2+ Hired Guns - 8 Dollars each
+This model may take up to 15 dollars of **weapons**, **equipment** and **upgrades**.
+
+## 2+ Hired Guns - 9 Dollars each
 
 | Model      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules      |
 | :--------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------- |
 | Hired Gun  |  4  |  4" |  9+ | 10+ |  3  |  2  |                    |
 
-## 0+ Drifters - 4 Dollars each
+This model may take up to 6 dollars of **weapons** and **equipment**.
+
+## 0+ Drifters - 5 Dollars each
 
 | Model      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules      |
 | :--------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------- |
-| Drifter    |  3  |  4" | 12+ | 10+ |  3  |  1  |                    |
+| Drifter    |  3  |  4" | 12+ | 10+ |  3  |  1  | Rookie             |
+
+This model may take up to 3 dollars of **weapons**.
 
 ## Weapons
 
-| Weapon     | Rng | Att | Dmg | Prc | Special Rules           | Cost |
-| :--------- | :-: | :-: | :-: | :-: | :---------------------- | :--: |
-| Revolver   | 6"  |  2  |  4  |  1  | Longshot                | 2    |
-| Rifle      | 10" |  2  |  4  |  2  | Longshot, Rending (1)   | 3    |
-| Shotgun    | 8"  |  3  |  3  |  3  | Accurate                | 3    |
-| Knife      | 1"  |  2  |  3  |  1  | Assault                 | 1    |
-| Fists      | 1"  |  1  |  2  |  0  | Assault                 | 0    |
+| Weapon     | Rng | Att | Dmg | Prc | Special Rules                    | Cost |
+| :--------- | :-: | :-: | :-: | :-: | :------------------------------- | :--: |
+| Revolver   | 6"  |  2  |  4  |  1  | Longshot                         | 2    |
+| Rifle      | 10" |  2  |  4  |  2  | Longshot, Rending (1)            | 3    |
+| Shotgun    | 8"  |  3  |  3  |  3  | Accurate                         | 3    |
+| Knife      | 1"  |  2  |  3  |  1  | Assault                          | 1    |
+| Fists      | 1"  |  1  |  2  |  0  | Assault                          | 0    |
+| Dynamite   | 6"  |  3  |  5  |  4  | Blast (1), Heavy, One use, Shred | 5    |
 
 ## Equipment
 
-| Equipment | Effect |
-| :-------- | :----- |
-| Horse | This model gains the benefits of being mounted on a horse as outlined above. 
+| Equipment | Effect | Cost |
+| :-------- | :----- | :--: |
+| Horse | This model gains the benefits of being mounted on a horse as outlined above. You may have a maximum of 2 horses in your gang. | 8 |
+| Whiskey Flask | The first time this model has to draw a card for being injured, it may draw 2 and choose the best one. | 3 |
+
+## Upgrades
+
+| Upgrade | Effect | Cost |
+| :------ | :----- | :--: |
+| Aces Wild | This model always counts Aces as 11 when making a draw. | 2 |
+| Quick Draw | One use, when this model is targeted in an attack it may immediately make a free attack action with a Revolver. | 3 |
+| Dodge Roll | When this model is targeted in for an attack with and Assault weapon, you may spend 1 Command Point to move this model up to 2 inches. The model that made the attack may choose a different target with the same weapon. | 1 |
+| Steady Hands | This model only suffers a -2 to draws for the Rush Penalty. | 1 |
+| Mounted Combat | This model gains +2 to attack rolls when using Assault weapons while mounted on a Horse. | 2 |
+| Intuition | One use. Only one model in your gang may have this upgrade. Your opponent must reveal 2 of the cards in their hand. | 3 |
