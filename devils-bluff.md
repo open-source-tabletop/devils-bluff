@@ -76,6 +76,10 @@ Counter rolls have the following modified values for drawing cards:
 | Damage is higher than Toughness              | 11+          |
 | Damage is double, or higher, than Toughness  | 13           |
 
+## Routing
+
+Any gang that has lost 50% of its models or has lost its leader becomes increasingly likely to flee the fight. 
+
 ## Special Rules
 
 | Special Rule | Effect |
@@ -158,3 +162,7 @@ This model may take up to 3 dollars of **weapons**.
 | Steady Hands | This model only suffers a -2 to draws for the Rush Penalty. | 1 |
 | Mounted Combat | This model gains +2 to attack rolls when using Assault weapons while mounted on a Horse. | 2 |
 | Intuition | One use. Only one model in your gang may have this upgrade. Your opponent must reveal 2 of the cards in their hand. | 3 |
+
+# Missions
+
+# Campaigns
