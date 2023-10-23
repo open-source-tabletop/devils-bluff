@@ -163,6 +163,10 @@ This model may take up to 3 dollars of **weapons**.
 | Mounted Combat | This model gains +2 to attack rolls when using Assault weapons while mounted on a Horse. | 2 |
 | Intuition | One use. Only one model in your gang may have this upgrade. Your opponent must reveal 2 of the cards in their hand. | 3 |
 
+
+
+
+
 # Missions
 
 In addition to scoring Victory Points (VP) as explained in each mission - you also score additional Victory Points for the following:
@@ -170,6 +174,10 @@ In addition to scoring Victory Points (VP) as explained in each mission - you al
 - 1VP for scoring the first kill in the game.
 - 1VP for killing an enemy Legend model.
 - 2VP for killing an enemy Leader.
+
+
+
+
 
 ## Stake A Claim
 
@@ -183,6 +191,10 @@ After setting up the terrain, both players draw a card then, starting with the w
 
 Each model that secures one of the recover objectives can score it by surviving to the end of the battle or by moving to touch their entry point. Each objective is worth 3 Victory Points when scored.
 
+
+
+
+
 ## Run Them Out Of Town
 
 Two gangs have taken up residence in town, a little too close for comfort, and this town is only big enough for one.
@@ -194,6 +206,10 @@ After setting up the terrain a single **control objective** is placed in the cen
 #### Objectives
 
 The control objective is worth a number of Victory Points equal to the round number.
+
+
+
+
 
 ## High Noon
 
