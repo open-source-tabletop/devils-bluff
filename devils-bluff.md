@@ -20,17 +20,17 @@ As the new day dawned, a new chapter started in Devils Bluff, one of opportunity
 
 # Playing Devil's Bluff
 
-Devil's Bluff requires a battlefield around 2ft by 3ft, or something with a similar area, and plenty of terrain to fill it. Each game lasts for 5 rounds.
+Devil's Bluff uses the [Cadence Core Rules](https://cadence.games) with the additional rules listed below. This game requires a battlefield around 2ft by 3ft, or something with a similar area, and plenty of terrain to fill it. Each game lasts for 5 rounds.
 
 ## The Deck
 
-Instead of six sided dice, Devils Bluff uses a standard deck of 52 playing cards, with Jokers removed, to determine success and failure of actions. All 'rolls' in the game are referred to as 'draws' in this game. At the start of the game, shuffle a deck of cards and place it in reach of all players, this is The Deck. Any time an action would require you to roll a dice the player instead draws a card and then reveals it to the other player, taking the value of the card as their "roll". Cards are numbered according to their value regardless of suit with the Jack, Queen, and King having a value of 11, 12, and 13 respectively.
+Instead of six sided dice, Devils Bluff uses a standard deck of 52 playing cards, with Jokers removed, to determine success and failure of actions. All 'rolls' in the core rules are referred to as 'draws' in this game. At the start of the game, shuffle a deck of cards and place it in reach of all players, this is The Deck. Any time an action would require you to roll a dice the player instead draws a card and then reveals it to the other player, taking the value of the card as their "roll". Cards are numbered according to their value regardless of suit with the Jack, Queen, and King having a value of 11, 12, and 13 respectively.
 
-If a player is required to draw a certain value to but fails to do so, they may have an additional chance for success. If the player has a sequence of 2 or 3 cards (i.e. numbers in the same suit in order such as the 2, 3, and 4 of clubs) or they have 2 or 3 of the same value card, and these combined equal the value required, this will count as a single success.
+If a player is required to draw a certain value but fails to do so, they have an additional chance for success. If the player has a sequence of 2 or 3 cards (i.e. numbers in the same suit in order such as the 2, 3, and 4 of clubs) or they have 2 or 3 of the same value card, and these combined equal the value required, this will count as a single success.
 
 ### The Hand
 
-At the start of the game, after shuffling the deck, each player draws 3 cards, keeping their faces hidden from the other players. Any time a player draws a card, they may instead swap it with one in their hand. In this way players can have partial control of the action in the game.
+At the start of the game, after shuffling the deck, each player draws 3 cards, keeping their faces hidden from the other players. Any time a player draws a card, they may instead swap it with one in their hand. In this way players have partial control of the action in the game.
 
 ## Cover
 
