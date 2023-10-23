@@ -165,4 +165,23 @@ This model may take up to 3 dollars of **weapons**.
 
 # Missions
 
+In addition to scoring Victory Points (VP) as explained in each mission - you also score additional Victory Points for the following:
+
+- 1VP for scoring the first kill in the game.
+- 1VP for killing an enemy Legend model.
+- 2VP for killing an enemy Leader.
+
+
+## Stake A Claim
+
+In the chaos of the earthquake lots of sites were abandoned, leaving valuable resources to be claimed by the first group able to backup that claim with sufficient force.
+
+#### Setup
+
+Players draw a card then, starting with the winner, players alternate placing 6 **Recovery Objectives** around thr battlefield. These must be at least 6 inches from the table edges and from any other objective marker. Players draw again, with the winner choosing one of the table edges, the other player takes the opposing table edge. Each player may place an entry point anywhere on their table edge.
+
+#### Objectives
+
+Each model that secures one of the recover objectives can score it by surviving to the end of the battle or by moving to touch their entry point. Each objective is worth 3 Victory Points when scored.
+
 # Campaigns
