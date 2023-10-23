@@ -78,7 +78,7 @@ Counter rolls have the following modified values for drawing cards:
 
 ## Routing
 
-Any gang that has lost 50% of its models or has lost its leader becomes increasingly likely to flee the fight. 
+Any gang that has lost 50% of its models or has lost its leader becomes increasingly likely to flee the fight. If your gang has met these conditions you must draw a card every time you activate a unit and place it face up where your oppponent can see it. This is not in the discard pike and each player keeps their own cards if they have both met the conditions. Once this pile has reached a total greater than 21 your gang has routed, after the current activation your gang will flee and the game ends.
 
 ## Special Rules
 
