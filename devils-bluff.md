@@ -4,23 +4,21 @@ Welcome to the town of Devil's Bluff: a lawless place where anything goes and da
 
 ### A Bad Hand
 
-Nestled amidst the untamed wilds, where the relentless sun beats down on arid terrain and the winds whisper tales of both despair and hope, sat the town of Barton's Bluff. Shielded from the prying eyes of the law and the vigilant watch of the righteous, this once-thriving settlement now harbors shadows of darkness and deceit. Once, Barton's Bluff held the promise of a brighter future. Vast tracts of fertile land and hidden veins of coal beneath the surrounding hills hinted at boundless wealth and prosperity. Yet, the pursuit of fortune and influence exacts a toll.
+Nestled amidst the untamed wilds, where the relentless sun beats down on arid terrain and the winds whisper tales of both despair and hope, sits the town once called Barton's Bluff. Shielded from the prying eyes of the law and the vigilant watch of the righteous, this once-thriving settlement now harbors darkness and deceit. Once, Barton's Bluff held the promise of a brighter future. Vast tracts of fertile land and hidden veins of coal beneath the surrounding hills hinted at boundless wealth and prosperity. Yet, the pursuit of fortune and influence exacts a toll.
 
-Unscrupulous land barons, opulent mine operators, and cutthroat magnates fixed their gaze on Barton's Bluff, their avarice casting a long, foreboding shadow. Sensing the encroaching darkness, the local priest orchestrated a gathering within the hallowed confines of the church. Heads of factions and their trusted confidants convened in this unlikely sanctuary, each believing they had an opportunity to further their goals, unaware that destiny had other designs.
+Unscrupulous land barons, opulent mine operators, and cutthroat magnates fixed their gaze on Barton's Bluff, their avarice casting a long, foreboding shadow. In an effort to guide the town along a better path the local priest orchestrated a gathering within the hallowed walls of the church. Heads of factions and their lieutenants convened in this unlikely sanctuary, each believing they had an opportunity to further their goals, unaware that destiny had other designs.
 
-As fervent discussions reached a crescendo, the very foundations of the town trembled beneath the weight of their transgressions. The earth itself rebelled, as Barton's Bluff was shaken by an earthquake. Chaos erupted as a portion of the land crumbled, shrouding the town in a pall of dust. As the tremors subsided and people gathered their wits, they beheld a town spared from significant harm, save for the church—crushed beneath the rubble, along with its ill-fated occupants. Had the town been saved, or forsaken? The weary and downtrodden inhabitants began to murmur a new name for their home—Devils Bluff—an emblem of the corruption that had taken root.
+As the discussions reached a crescendo, the very foundations of the town trembled beneath the weight of their transgressions. The earth itself rebelled, as Barton's Bluff was shaken by an earthquake. Chaos erupted as a portion of the land crumbled, shrouding the town in a pall of dust. As the tremors subsided and people gathered their wits, they beheld a town spared from significant harm, save for the church, crushed beneath the rubble, along with its ill-fated occupants. Had the town been saved, or forsaken? The weary and downtrodden inhabitants began to murmur a new name for their home—Devils Bluff—an emblem of the corruption that had taken root.
 
 ### Playing the cards you're dealt
 
-As the new day dawned, a new chapter started in Devils Bluff—one of opportunity and treacherous ambition. The high and mighty had fallen, silenced by the cruel hand of fate. A power vacuum emerged, leaving the workers, the small-time gangs, the hired thugs, and the few righteous souls to vie for control over the remnants of the fractured town. Each faction harbored its own desires—for power, for wealth, for the restoration of law and order, and everyone must choose a side.
+As the new day dawned, a new chapter started in Devils Bluff, one of opportunity and treacherous ambition. The high and mighty had fallen, silenced by the cruel hand of fate. A power vacuum emerged, leaving the workers, the small-time gangs, the hired thugs, and the few righteous souls to vie for control over the remnants of the beleagured town. Each harbors their own desires—for power, for wealth, for the restoration of law and order, and everyone must choose a side.
 
 
 
 
 
-# Module Rules
-
-## Playing Devil's Bluff
+# Playing Devil's Bluff
 
 Devil's Bluff requires a battlefield around 2ft by 3ft, or something with a similar area, and plenty of terrain to fill it. Each game lasts for 5 rounds.
 
