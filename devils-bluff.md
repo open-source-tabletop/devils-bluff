@@ -136,10 +136,10 @@ This model may take up to 3 dollars of **weapons**.
 | :--------- | :-: | :-: | :-: | :-: | :------------------------------- | :--: |
 | Revolver   | 6"  |  2  |  4  |  1  | Longshot                         | 2    |
 | Rifle      | 10" |  2  |  4  |  2  | Longshot, Rending (1)            | 3    |
-| Shotgun    | 8"  |  3  |  3  |  3  | Accurate                         | 3    |
+| Shotgun    | 8"  |  3  |  5  |  3  | Accurate                         | 6    |
 | Knife      | 1"  |  2  |  3  |  1  | Assault                          | 1    |
 | Fists      | 1"  |  1  |  2  |  0  | Assault                          | 0    |
-| Dynamite   | 6"  |  3  |  5  |  4  | Blast (1), Heavy, One use, Shred | 5    |
+| Dynamite   | 6"  |  3  |  6  |  4  | Blast (1), Heavy, One use, Shred | 5    |
 
 ## Equipment
 
@@ -152,9 +152,9 @@ This model may take up to 3 dollars of **weapons**.
 
 | Upgrade | Effect | Cost |
 | :------ | :----- | :--: |
-| Aces Wild | This model always counts Aces as 11 when making a draw. | 2 |
+| Aces Wild | This model may count Aces as 11 when making a draw. | 2 |
 | Quick Draw | One use, when this model is targeted in an attack it may immediately make a free attack action with a Revolver. | 3 |
-| Dodge Roll | When this model is targeted in for an attack with and Assault weapon, you may spend 1 Command Point to move this model up to 2 inches. The model that made the attack may choose a different target with the same weapon. | 1 |
+| Dodge Roll | When this model is targeted in for an attack with and Assault weapon, you may spend 1 Command Point to move this model up to 2 inches. The model that made the attack may choose a new target or weapon. | 1 |
 | Steady Hands | This model only suffers a -2 to draws for the Rush Penalty. | 1 |
 | Mounted Combat | This model gains +2 to attack rolls when using Assault weapons while mounted on a Horse. | 2 |
 | Intuition | One use. Only one model in your gang may have this upgrade. Your opponent must reveal 2 of the cards in their hand. | 3 |
