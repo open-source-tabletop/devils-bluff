@@ -183,6 +183,8 @@ After setting up the terrain, both players draw a card then, starting with the w
 
 Each model that secures one of the recover objectives can score it by surviving to the end of the battle or by moving to touch their entry point. Each objective is worth 3 Victory Points when scored.
 
+## It aint big enough for the both of us
+
 ## High Noon
 
 Tensions have never been higher in Devils Bluff and rivalries grow until they spill out into the streets in bloody shoot outs.
