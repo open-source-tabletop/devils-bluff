@@ -183,7 +183,17 @@ After setting up the terrain, both players draw a card then, starting with the w
 
 Each model that secures one of the recover objectives can score it by surviving to the end of the battle or by moving to touch their entry point. Each objective is worth 3 Victory Points when scored.
 
-## It aint big enough for the both of us
+## Run Them Out Of Town
+
+Two gangs have taken up residence in town, a little too close for comfort, and this town is only big enough for one.
+
+#### Setup
+
+After setting up the terrain a single **control objective** is placed in the centre of the table. Players draw, with the winner choosing one of the table edges, the other player takes the opposing table edge. Each player may place an entry point anywhere on their table edge.
+
+#### Objectives
+
+The control objective is worth a number of Victory Points equal to the round number.
 
 ## High Noon
 
@@ -196,5 +206,3 @@ After setting up the terrain, both players draw a card then the winner chooses o
 #### Objectives
 
 Each enemy model that your gang kills is worth 1 Victory Point each, you still score the additional points for killing Legends or Leaders. Causing your opponent to rout is worth 2 Victory Points.
-
-# Campaigns
