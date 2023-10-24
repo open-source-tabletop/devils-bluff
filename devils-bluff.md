@@ -1,5 +1,3 @@
-# Devils' Bluff
-
 Welcome to the town of Devil's Bluff: a lawless place where anything goes and danger walks hand-in-hand with opportunity. In this fast, deadly skirmish game, you'll put together a gang of gunslingers, battle for dominance, wealth, and power, as you build your Wild West legend.
 
 ### A Bad Hand
@@ -18,11 +16,11 @@ As the new day dawned, a new chapter started in Devils Bluff, one of opportunity
 
 
 
-# Playing Devil's Bluff
+## Playing Devil's Bluff
 
 Devil's Bluff uses the [Cadence Core Rules](https://cadence.games) with the additional rules listed below. This game requires a battlefield around 2ft by 3ft, or something with a similar area, and plenty of terrain to fill it. Each game lasts for 5 rounds.
 
-## The Deck
+### The Deck
 
 Instead of six sided dice, Devils Bluff uses a standard deck of 52 playing cards, with Jokers removed, to determine success and failure of actions. All 'rolls' in the core rules are referred to as 'draws' in this game. At the start of the game, shuffle a deck of cards and place it in reach of all players, this is The Deck. Any time an action would require you to roll a dice the player instead draws a card and then reveals it to the other player, taking the value of the card as their "roll". Cards are numbered according to their value regardless of suit with the Jack, Queen, and King having a value of 11, 12, and 13 respectively.
 
@@ -32,11 +30,11 @@ If a player is required to draw a certain value but fails to do so, they have an
 
 At the start of the game, after shuffling the deck, each player draws 3 cards, keeping their faces hidden from the other players. Any time a player draws a card, they may instead swap it with one in their hand. In this way players have partial control of the action in the game.
 
-## Cover
+### Cover
 
 It is advised to count all solid terrain, such as walls, rocks, barrels, etc as having the **Cover** keyword while softer terrain such as fences or plants will only obscure line of sight.
 
-## Horses
+### Horses
 
 A model that is mounted on a horse gains a number of benefits detailed below. A model on a horse may dismount at the start of any activation, removing these benefits, but may not again mount their horse for the remainder of the game.
 
@@ -47,7 +45,7 @@ A model on a horse has the following changes:
 - Mounted models treat climbable terrain as impassable.
 - A mounted model does not gain the benefit of the Cover terrain keyword.
 
-## Injuries 
+### Injuries 
 
 When a model loses its last hit point, instead of being removed from the game they take an Injury Test. Draw a card for the model:
 
@@ -55,7 +53,7 @@ When a model loses its last hit point, instead of being removed from the game th
 - If you draw a 2-10 the model survives but is injured, and should be marked as such, returning its Hit Points to 1. This model loses any remaining Command Points it has. If the model should lose its last hit point again it is automatically incapacitated and removed from the game.
 - If you draw a 11+ the model survives unscathed, remaining at 1 Hit Point as though it did not lose its final hit point.
 
-## Attack Rolls
+### Attack Rolls
 
 Attack roll modifiers have the following changes for drawing cards, for quick reference these are double their original value:
 
@@ -64,7 +62,7 @@ Attack roll modifiers have the following changes for drawing cards, for quick re
 - **Height Advantage**: Gain a **+2 modifier** to your Attack Roll when attacking a model at a lower height level (see the terrain rules).
 - **Obscured Penalty**: When attacking a target with an obscured line of sight, suffer a **-2 modifier** to your Attack Roll.
 
-## Counter Rolls
+### Counter Rolls
 
 Counter rolls have the following modified values for drawing cards:
 
@@ -76,11 +74,11 @@ Counter rolls have the following modified values for drawing cards:
 | Damage is higher than Toughness              | 11+          |
 | Damage is double, or higher, than Toughness  | 13           |
 
-## Routing
+### Routing
 
 Any gang that has lost 50% of its models or has lost its leader becomes increasingly likely to flee the fight. If your gang has met these conditions you must draw a card every time you activate a unit and place it face up where your oppponent can see it. This is not in the discard pike and each player keeps their own cards if they have both met the conditions. Once this pile has reached a total greater than 21 your gang has routed, after the current activation your gang will flee and the game ends.
 
-## Special Rules
+### Special Rules
 
 | Special Rule | Effect |
 | :----------- | :----- |
@@ -93,7 +91,7 @@ Any gang that has lost 50% of its models or has lost its leader becomes increasi
 
 
 
-# Gangs
+## Gangs
 
 In order to play Devils Bluff you will need to put together a gang. Each player has 150 dollars with which to hire gunmen and pay for their weapons and equipment. Choose models and equipment from the list below, note that some restrictions apply:
 
@@ -102,7 +100,7 @@ In order to play Devils Bluff you will need to put together a gang. Each player 
 - You must include at least 2 Hired Guns in your gang.
 - You can include as many Drifters in your gang as you like.
 
-## 1 Leader - Free
+### 1 Leader - Free
 
 | Model      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules      |
 | :--------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------- |
@@ -110,7 +108,7 @@ In order to play Devils Bluff you will need to put together a gang. Each player 
 
 This model may take up to 20 dollars of **weapons**, **equipment** and **upgrades**.
 
-## 0-2 Legends - 16 Dollars each
+### 0-2 Legends - 16 Dollars each
 
 | Model      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules      |
 | :--------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------- |
@@ -118,7 +116,7 @@ This model may take up to 20 dollars of **weapons**, **equipment** and **upgrade
 
 This model may take up to 15 dollars of **weapons**, **equipment** and **upgrades**.
 
-## 2+ Hired Guns - 9 Dollars each
+### 2+ Hired Guns - 9 Dollars each
 
 | Model      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules      |
 | :--------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------- |
@@ -126,7 +124,7 @@ This model may take up to 15 dollars of **weapons**, **equipment** and **upgrade
 
 This model may take up to 6 dollars of **weapons** and **equipment**.
 
-## 0+ Drifters - 5 Dollars each
+### 0+ Drifters - 5 Dollars each
 
 | Model      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules      |
 | :--------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------- |
@@ -134,7 +132,7 @@ This model may take up to 6 dollars of **weapons** and **equipment**.
 
 This model may take up to 3 dollars of **weapons**.
 
-## Weapons
+### Weapons
 
 | Weapon     | Rng | Att | Dmg | Prc | Special Rules                    | Cost |
 | :--------- | :-: | :-: | :-: | :-: | :------------------------------- | :--: |
@@ -145,14 +143,14 @@ This model may take up to 3 dollars of **weapons**.
 | Fists      | 1"  |  1  |  2  |  0  | Assault                          | 0    |
 | Dynamite   | 6"  |  3  |  6  |  4  | Blast (1), Heavy, One use, Shred | 5    |
 
-## Equipment
+### Equipment
 
 | Equipment | Effect | Cost |
 | :-------- | :----- | :--: |
 | Horse | This model gains the benefits of being mounted on a horse as outlined above. You may have a maximum of 2 horses in your gang. | 8 |
 | Whiskey Flask | The first time this model has to draw a card for being injured, it may draw 2 and choose the best one. | 3 |
 
-## Upgrades
+### Upgrades
 
 | Upgrade | Effect | Cost |
 | :------ | :----- | :--: |
@@ -167,7 +165,7 @@ This model may take up to 3 dollars of **weapons**.
 
 
 
-# Missions
+## Missions
 
 In addition to scoring Victory Points (VP) as explained in each mission - you also score additional Victory Points for the following:
 
@@ -179,7 +177,7 @@ In addition to scoring Victory Points (VP) as explained in each mission - you al
 
 
 
-## Stake A Claim
+### Stake A Claim
 
 In the chaos of the earthquake lots of sites were abandoned, leaving valuable resources to be claimed by the first group able to backup that claim with sufficient force.
 
@@ -195,7 +193,7 @@ Each model that secures one of the recover objectives can score it by surviving 
 
 
 
-## Run Them Out Of Town
+### Run Them Out Of Town
 
 Two gangs have taken up residence in town, a little too close for comfort, and this town is only big enough for one.
 
@@ -211,7 +209,7 @@ The control objective is worth a number of Victory Points equal to the round num
 
 
 
-## High Noon
+### High Noon
 
 Tensions have never been higher in Devils Bluff and rivalries grow until they spill out into the streets in bloody shoot outs.
 
