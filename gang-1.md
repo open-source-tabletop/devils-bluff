@@ -12,8 +12,6 @@
 | Rifle             | 10" |  2  |  4  |  2  | Longshot, Rending (1)            | 9    |
 | Knife             | 1"  |  3  |  3  |  1  | Assault                          | 3    |
 
-Horse (15)
-
 | Upgrade | Effect | Cost |
 | :------ | :----- | :--: |
 | Horse | This model gains the benefits of being mounted on a horse as outlined above. You may have a maximum of 2 horses in your gang. | 15 |
