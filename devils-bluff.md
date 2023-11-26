@@ -1,42 +1,23 @@
 # Devil's Bluff
 
-Welcome to the town of Devil's Bluff: a lawless place where anything goes and danger walks hand-in-hand with opportunity. In this fast, deadly skirmish game, you'll put together a gang of gunslingers, battle for dominance, wealth, and power, as you build your Wild West legend.
+There are no monsters here, only men.  
+There are no men here, only monsters.
 
-### A Bad Hand
-
-Nestled amidst the untamed wilds, where the relentless sun beats down on arid terrain and the winds whisper tales of both despair and hope, sits the town once called Barton's Bluff. Shielded from the prying eyes of the law and the vigilant watch of the righteous, this once-thriving settlement now harbors darkness and deceit. Once, Barton's Bluff held the promise of a brighter future. Vast tracts of fertile land and hidden veins of coal beneath the surrounding hills hinted at boundless wealth and prosperity. Yet, the pursuit of fortune and influence exacts a toll.
-
-Unscrupulous land barons, opulent mine operators, and cutthroat magnates fixed their gaze on Barton's Bluff, their avarice casting a long, foreboding shadow. In an effort to guide the town along a better path the local priest orchestrated a gathering within the hallowed walls of the church. Heads of factions and their lieutenants convened in this unlikely sanctuary, each believing they had an opportunity to further their goals, unaware that destiny had other designs.
-
-As the discussions reached a crescendo, the very foundations of the town trembled beneath the weight of their transgressions. The earth itself rebelled, as Barton's Bluff was shaken by an earthquake. Chaos erupted as a portion of the land crumbled, shrouding the town in a pall of dust. As the tremors subsided and people gathered their wits, they beheld a town spared from significant harm, save for the church, crushed beneath the rubble, along with its ill-fated occupants. Had the town been saved, or forsaken? The weary and downtrodden inhabitants began to murmur a new name for their home—Devils Bluff—an emblem of the corruption that had taken root.
-
-### Playing the cards you're dealt
-
-As the new day dawned, a new chapter started in Devils Bluff, one of opportunity and treacherous ambition. The high and mighty had fallen, silenced by the cruel hand of fate. A power vacuum emerged, leaving the workers, the small-time gangs, the hired thugs, and the few righteous souls to vie for control over the remnants of the beleagured town. Each harbors their own desires—for power, for wealth, for the restoration of law and order, and everyone must choose a side.
-
-
-
-
-
-## Playing Devil's Bluff
+# Playing Devil's Bluff
 
 Devil's Bluff uses the [Cadence Core Rules](https://cadence.games) with the additional rules listed below. This game requires a battlefield around 2ft by 3ft, or something with a similar area, and plenty of terrain to fill it. Each game lasts for 5 rounds.
 
-### The Deck
+## The Deck
 
 Instead of six sided dice, Devils Bluff uses a standard deck of 52 playing cards, with Jokers removed, to determine success and failure of actions. All 'rolls' in the core rules are referred to as 'draws' in this game. At the start of the game, shuffle a deck of cards and place it in reach of all players, this is The Deck. Any time an action would require you to roll a dice the player instead draws a card and then reveals it to the other player, taking the value of the card as their "roll". Cards are numbered according to their value regardless of suit with the Jack, Queen, and King having a value of 11, 12, and 13 respectively.
 
-If a player is required to draw a certain value but fails to do so, they have an additional chance for success. If the player has a sequence of 2 or 3 cards (i.e. numbers in the same suit in order such as the 2, 3, and 4 of clubs) or they have 2 or 3 of the same value card, and these combined equal the value required, this will count as a single success.
+If a player is required to draw a certain value but fails to do so, they have an additional chance for success if they can play a set or a sequence of cards that add up to an amount that is required for success, that can count as a single success. A set of cards is 3 or 4 cards of the same value. A sequence is combination of 3 or 4 cards that have consecutive values and alternate from black and red suits (such as the 3 of hearts, 4 of clubs, and 5 of diamonds).
 
-### The Hand
+## The Hand
 
 At the start of the game, after shuffling the deck, each player draws 3 cards, keeping their faces hidden from the other players. Any time a player draws a card, they may instead swap it with one in their hand. In this way players have partial control of the action in the game.
 
-### Cover
-
-It is advised to count all solid terrain, such as walls, rocks, barrels, etc as having the **Cover** keyword while softer terrain such as fences or plants will only obscure line of sight.
-
-### Horses
+## Horses
 
 A model that is mounted on a horse gains a number of benefits detailed below. A model on a horse may dismount at the start of any activation, removing these benefits, but may not again mount their horse for the remainder of the game.
 
@@ -94,85 +75,76 @@ Any gang that has lost 50% of its models or has lost its leader becomes increasi
 
 ## Gangs
 
-In order to play Devils Bluff you will need to put together a gang. Each player has 150 dollars with which to hire gunmen and pay for their weapons and equipment. Choose models and equipment from the list below, note that some restrictions apply:
+In order to play Devils Bluff you will need to put together a gang. Each player has 500 dollars with which to hire gunmen and pay for their weapons and equipment. Choose models and equipment from the list below, note that some restrictions apply:
 
 - You are required to include only 1 Leader model in your gang.
-- You can include up to 4 Legends in your gang.
+- You can include up to 2 Legends in your gang.
 - You must include at least 2 Hired Guns in your gang.
-- You can include as many Drifters in your gang as you like.
 - You may take only 2 weapons per model.
 - You may only take one of each type of special weapon.
 
-### 1 Leader - Free
+### 1 Leader - 60 Dollars
 
 | Model      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules      |
 | :--------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------- |
-| Leader     |  6  |  4" |  6+ | 10+ |  3  |  4  | Leader, Gunfighter |
+| Leader     |  6  |  4" |  6+ | 10+ |  3  |  4  | Leader             |
 
-This model may take up to 20 dollars of **weapons**, **special weapons**, **equipment** and **upgrades**.
+This model may take up to 80 dollars of **weapons**, **special weapons**, **equipment** and **upgrades**.
 
-### 0-4 Legends - 16 Dollars each
+### 0-2 Legends - 50 Dollars
 
 | Model      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules      |
 | :--------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------- |
-| Legend     |  5  |  4" |  7+ | 10+ |  3  |  3  | Gunfighter         |
+| Legend     |  5  |  4" |  8+ | 10+ |  3  |  3  |                    |
 
-This model may take up to 15 dollars of **weapons**, **special weapons**. **equipment** and **upgrades**.
+This model may take up to 60 dollars of **weapons**, **special weapons**. **equipment** and **upgrades**.
 
-### 2+ Hired Guns - 9 Dollars each
+### 2+ Hired Guns - 30 Dollars each
 
 | Model      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules      |
 | :--------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------- |
 | Hired Gun  |  4  |  4" |  9+ | 10+ |  3  |  2  |                    |
 
-This model may take up to 6 dollars of **weapons** and **equipment**.
-
-### 0+ Drifters - 5 Dollars each
-
-| Model      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules      |
-| :--------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------- |
-| Drifter    |  3  |  4" | 12+ | 10+ |  3  |  2  | Rookie             |
-
-This model may take up to 3 dollars of **weapons**.
+This model may take up to 20 dollars of **weapons** and **equipment**.
 
 ### Weapons
 
 | Weapon            | Rng | Att | Dmg | Prc | Special Rules                    | Cost |
 | :---------------- | :-: | :-: | :-: | :-: | :------------------------------- | :--: |
-| Revolver          | 6"  |  2  |  4  |  1  | Longshot                         | 2    |
-| Rifle             | 10" |  2  |  4  |  2  | Longshot, Rending (1)            | 3    |
-| Shotgun           | 8"  |  3  |  5  |  3  | Accurate                         | 6    |
-| Knife             | 1"  |  2  |  3  |  1  | Assault                          | 1    |
+| Revolver          | 6"  |  2  |  4  |  1  | Longshot                         | 5    |
+| Dual Pistols      | 6"  |  3  |  4  |  1  |                                  | 8    |
+| Rifle             | 10" |  2  |  4  |  2  | Longshot, Rending (1)            | 9    |
+| Shotgun           | 8"  |  3  |  6  |  2  |                                  | 18   |
+| Knife             | 1"  |  3  |  3  |  1  | Assault                          | 3    |
 | Fists             | 1"  |  1  |  2  |  0  | Assault                          | 0    |
 
 ### Special Weapons
 
 | Weapon            | Rng | Att | Dmg | Prc | Special Rules                    | Cost |
 | :---------------- | :-: | :-: | :-: | :-: | :------------------------------- | :--: |
-| Dual Pistols      | 6"  |  3  |  4  |  1  |                                  | 3    |
-| Precision Pistol  | 10" |  2  |  4  |  2  | Accurate, Heavy                  | 4    |
-| Hunting Rifle     | 12" |  2  |  4  |  2  | Accurate, Longshot, Rending (1)  | 4    |
-| Dynamite          | 6"  |  3  |  6  |  4  | Blast (1), Heavy, One use, Shred | 5    |
-| Bowie Knife       | 1"  |  3  |  3  |  1  | Assault                          | 2    |
+| Precision Pistol  | 9"  |  2  |  4  |  1  | Longshot                         | 8    |
+| Hunting Rifle     | 12" |  2  |  4  |  2  | Accurate, Longshot, Rending (1)  | 15   |
+| Dynamite          | 6"  |  3  |  6  |  4  | Blast (1), Heavy, One use, Shred | 12   |
+| Bowie Knife       | 1"  |  3  |  4  |  1  | Assault                          | 6    |
 
 ### Equipment
 
 | Equipment | Effect | Cost |
 | :-------- | :----- | :--: |
-| Horse | This model gains the benefits of being mounted on a horse as outlined above. You may have a maximum of 2 horses in your gang. | 8 |
-| Whiskey Flask | The first time this model has to draw a card for being injured, it may draw 2 and choose the best one. | 3 |
+| Horse | This model gains the benefits of being mounted on a horse as outlined above. You may have a maximum of 2 horses in your gang. | 15 |
+| Whiskey Flask | The first time this model has to draw a card for being injured, it may draw 2 and choose the best one. | 5 |
 
 ### Upgrades
 
 | Upgrade | Effect | Cost |
 | :------ | :----- | :--: |
-| Aces Wild | This model may count Aces as 11 when making a draw. | 6 |
-| Quick Draw | One use, when this model is targeted in an attack it may immediately make a free attack action with a Revolver. | 5 |
-| Dodge Roll | When this model is targeted in for an attack with and Assault weapon, you may spend 1 Command Point to move this model up to 2 inches. The model that made the attack may choose a new target or weapon. | 4 |
-| Steady Hands | This model only suffers a -2 to draws for the Rush Penalty. | 3 |
-| Mounted Combat | This model gains +2 to attack rolls when using Assault weapons while mounted on a Horse. | 4 |
-| Intuition | One use. Only one model in your gang may have this upgrade. Your opponent must reveal 2 of the cards in their hand. | 3 |
-| Gunfighter | This model may make 2 attack actions in a row when using a Revolver if it does not move during its activation. | 5 |
+| Aces Wild | This model may count Aces as 11 when making a draw. | 15 |
+| Quick Draw | One use, when this model is targeted in an attack it may immediately make a free attack action with a Revolver. | 15 |
+| Dodge Roll | When this model is targeted in for an attack with and Assault weapon, you may spend 1 Command Point to move this model up to 2 inches. The model that made the attack may choose a new target or weapon. | 10 |
+| Steady Hands | This model only suffers a -2 to draws for the Rush Penalty. | 10 |
+| Mounted Combat | This model gains +2 to attack rolls when using Assault weapons while mounted on a Horse. | 10 |
+| Intuition | One use. Only one model in your gang may have this upgrade. Your opponent must reveal 2 of the cards in their hand. | 6 |
+| Gunfighter | This model may make 2 attack actions in a row when using a Revolver if it does not move during its activation. | 15 |
 
 
 
