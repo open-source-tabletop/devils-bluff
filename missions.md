@@ -2,21 +2,23 @@
 
 ---
 
+## Victory Points
+
 In addition to scoring Victory Points (VP) as explained in each mission - you also score additional Victory Points for the following:
 
-- 1VP for scoring the first kill in the game.
-- 1VP for killing an enemy Legend model.
-- 2VP for killing an enemy Leader.
+- 2VP for scoring the first kill in the game.
+- 2VP for killing an enemy Legend model.
+- 3VP for killing an enemy Leader.
 
 ---
 
 ## Stake A Claim
 
-In the chaos of the earthquake lots of sites were abandoned, leaving valuable resources to be claimed by the first group able to backup that claim with sufficient force.
+There are many areas of Solitude which become abandoned, a rival gang may be driven off leaving the area uncontested, or the wild dust storms may so thoroughly wreck the buildings that the denizens seek shelter elsewhere. Whatever the reason it never takes long for word to spread and the spoils go to those that can take it first.
 
 #### Setup
 
-After setting up the terrain, both players draw a card then, starting with the winner, players alternate placing 6 **Recovery Objectives** around thr battlefield. These must be at least 6 inches from the table edges and from any other objective marker. Players draw again, with the winner choosing one of the table edges, the other player takes the opposing table edge. Each player may place an entry point anywhere on their table edge.
+After setting up the terrain both players draw a card then, starting with the winner, players alternate placing 6 **Recovery Objectives** around the battlefield. These must be at least 9 inches from the table edges and 6 inches from any other objective marker. Players draw again, with the winner choosing one of the table edges, the other player takes the opposing table edge. Each player may place an entry point anywhere on their table edge.
 
 #### Objectives
 
@@ -26,7 +28,7 @@ Each model that secures one of the recover objectives can score it by surviving 
 
 ## Run Them Out Of Town
 
-Two gangs have taken up residence in town, a little too close for comfort, and this town is only big enough for one.
+Rivalry is everywhere in Solitude, as soon as one opponent is dealt with another rises to fill the spot. All the same these upstarts must be driven out, to wither in the blasted deserts beyond the town limits.
 
 #### Setup
 
@@ -34,18 +36,18 @@ After setting up the terrain a single **control objective** is placed in the cen
 
 #### Objectives
 
-The control objective is worth a number of Victory Points equal to the round number.
+The control objective is worth 2 Victory Points at the end of each round it is secured.
 
 ---
 
 ## High Noon
 
-Tensions have never been higher in Devils Bluff and rivalries grow until they spill out into the streets in bloody shoot outs.
+Tensions are always high in Solitude, and a fight is never far away. Many gangs eager to build a reputation will flaunt their position in their territory, catcalling and insulting any who venture near in the hopes of stirring up some trouble.
 
 #### Setup
 
-After setting up the terrain, both players draw a card then the winner chooses one of the table edges, the other player takes the opposite edge. In order, players may then place 2 entry points on their table edge.
+After setting up the terrain, both players draw a card, the winner chooses aither Attacking or Defending. The Defending player must choose one table edge and set up 3 Control Objectives 12 inches from their table edge, and at least 9 inches from any other table edge or objective marker. They then place 3 entry points anywhere on their table edge. The Attacking player then sets up 3 entry points on the opposite table edge to the Defender.
 
 #### Objectives
 
-Each enemy model that your gang kills is worth 1 Victory Point each, you still score the additional points for killing Legends or Leaders. Causing your opponent to rout is worth 2 Victory Points.
+Each Objective is worth 1 Victory Point to the Defending Player at the end of every round it is secured and 3 to the Attacking player.

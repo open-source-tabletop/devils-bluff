@@ -2,9 +2,9 @@
 
 ---
 
-Welcome to the town of Devil's Bluff: a lawless place where anything goes and danger walks hand-in-hand with opportunity. A fast, deadly skirmish game set in the Old West.
+Devil's Bluff is a Wild West Skirmish Game set in the town of Solitude, a mysterious frontier town full of the forgotten and lost.
 
-Contribute to the development of Squadrons [on Github](https://github.com/open-source-tabletop/devils-bluff).
+Contribute to the development of Devil's Bluff [on Github](https://github.com/open-source-tabletop/devils-bluff).
 
 [Introduction](introduction.md)  
 [Module Rules](module-rules.md)  
