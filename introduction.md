@@ -5,6 +5,8 @@
 Devil's Bluff is a Wild West Skirmish Game set in the town of Solitude, a mysterious frontier town full of the forgotten and lost. In this place the only law is what you can enforce at the end of a gun.
 { .feature}
 
+---
+
 ![A Shootout in the Old West](../img/devilsbluff-shootout1.jpg)
 
 ---
@@ -33,7 +35,7 @@ Every once in a while someone arrives in Solitude, not worn, or weary, but willf
 
 And what about you? Are you weak or willful?
 
-Are you here to make the town a better place, to bring law, or to take everything it has to offer? 
+Are you here to make the town a better place, to bring law, or to take everything it has to offer?
 
 Round up a posse and make your mark on Solitude.
 

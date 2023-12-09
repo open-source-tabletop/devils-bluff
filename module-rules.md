@@ -20,6 +20,12 @@ If a player is required to draw a certain value but fails to do so, they have an
 
 At the start of the game, after shuffling the deck, each player draws 3 cards, keeping their faces hidden from the other players. Any time a player draws a card, they may instead swap it with one in their hand. In this way players have partial control of the action in the game.
 
+---
+
+![A Wild West Gang](../img/devilsbluff-shootout3.jpg)
+
+---
+
 ## Models
 
 ### Horses
