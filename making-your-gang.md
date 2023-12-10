@@ -23,7 +23,7 @@ In order to play Devil's Bluff you will need to put together a gang. Each player
 | :--------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------- | :----: | :--: |
 | Leader     |  6  |  4" |  6+ | 10+ |  3  |  4  | Leader             | 1 Only | 65   |
 
-This model may take up to 85 dollars of **weapons**, **special weapons**, and **upgrades**.
+This model may take up to 60 dollars of **weapons**, **special weapons**, and **upgrades**.
 
 ---
 
@@ -33,7 +33,7 @@ This model may take up to 85 dollars of **weapons**, **special weapons**, and **
 | :--------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------- | :----: | :--: |
 | Legend     |  5  |  4" |  8+ | 10+ |  3  |  3  |                    | 0-2    | 55   |
 
-This model may take up to 65 dollars of **weapons**, **special weapons**, and **upgrades**.
+This model may take up to 50 dollars of **weapons**, **special weapons**, and **upgrades**.
 
 ---
 
