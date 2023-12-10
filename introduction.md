@@ -46,11 +46,3 @@ Round up a posse and make your mark on Solitude.
 Devil's Bluff is licensed under a [Creative Commons by Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/). This license means the text of the rules are free, anyone can duplicate them, modify them, use them for any purpose (even commercial) so long as attribution to the original project is given.
 
 Contribute to the development of Devil's Bluff [on Github](https://github.com/open-source-tabletop/devils-bluff).
-
-## Where To Find Miniatures
-
-If you are looking to play Devil's Bluff you will need a range of 28mm Wild West miniatures to play with. You can find both physical and 3d printable miniatures from the producers below:
-
-- **[Great Escape Games](https://www.greatescapegames.co.uk/)**
-- **[Black Sheep Miniatures](https://www.blacksheepminiatures.co.uk/)**
-- **[Knuckleduster Miniatures](https://knuckleduster.com/)**
