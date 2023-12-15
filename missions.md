@@ -9,20 +9,26 @@ In addition to scoring Victory Points (VP) as explained in each mission - you al
 - 2VP for scoring the first kill in the game.
 - 2VP for killing an enemy Legend model.
 - 3VP for killing an enemy Leader.
+- 1VP if your opponent's gang routs.
 
 ---
 
-## Stake A Claim
+## Gold Rush
 
-There are many areas of Solitude which become abandoned, a rival gang may be driven off leaving the area uncontested, or the wild dust storms may so thoroughly wreck the buildings that the denizens seek shelter elsewhere. Whatever the reason it never takes long for word to spread and the spoils go to those that can take it first.
+It's an easy day for any gang when some valuables just happen to fall off the back of a wagon, so long as you can carry it off before a rival gang comes looking for a share of the profits.
 
 #### Setup
 
-After setting up the terrain both players draw a card then, starting with the winner, players alternate placing 6 **Recovery Objectives** around the battlefield. These must be at least 9 inches from the table edges and 6 inches from any other objective marker. Players draw again, with the winner choosing one of the table edges, the other player takes the opposing table edge. Each player may place an entry point anywhere on their table edge.
+After setting up the terrain both players draw a card then, starting with the winner, players alternate placing 8 **Recovery Objectives** around the battlefield. These must be at least 5 inches from the table edges or any other objective marker.
+
+Players then draw again, with the winner choosing one of the table edges, the other player takes the opposing table edge. Each player may place an entry point anywhere on their table edge.
 
 #### Objectives
 
-Each model that secures one of the recover objectives can score it by surviving to the end of the battle or by moving to touch their entry point. Each objective is worth 3 Victory Points when scored.
+Each model that secures one of the recover objectives can score it by surviving to the end of the battle or by moving to touch their entry point. If they move back to their entry point they are removed from the battlefield but do not count as a casualty.
+
+Each objective is worth 3 Victory Points when scored. If one gang routs the other gang makes a skill check for any remaining objectives using the highest skill remaining in their gang, they count as securing any they make a successful check for.
+
 
 ---
 
