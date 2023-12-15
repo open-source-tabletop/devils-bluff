@@ -21,7 +21,7 @@ In order to play Devil's Bluff you will need to put together a gang. Each player
 
 | Model      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules      | Count  | Cost |
 | :--------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------- | :----: | :--: |
-| Leader     |  6  |  4" |  6+ | 10+ |  3  |  4  | Leader             | 1 Only | 65   |
+| Leader     |  5  |  4" |  6+ | 10+ |  3  |  4  | Leader             | 1 Only | 65   |
 
 This model may take up to 60 dollars of **weapons**, **special weapons**, and **upgrades**.
 
@@ -75,8 +75,8 @@ This model may take up to 20 dollars of **weapons** and **upgrades**.
 
 | Upgrade | Effect | Cost |
 | :------ | :----- | :--: |
-| Aces Wild | This model may count Aces as 11 when making a draw. | 20 |
-| Armoured Plates | This model has a Defence of 8+, you may only take this upgrade on one model. | 15 |
+| Aces Wild | One per gang. This model may count Aces as 11 when making a draw. | 20 |
+| Armoured Plates | One per gang. This model has a Defence of 8+. | 15 |
 | Quick Draw | One use, when this model is targeted in an attack it may immediately make a free attack action with a Revolver. | 15 |
 | Dodge Roll | When this model is targeted in for an attack with and Assault weapon, you may spend 1 Command Point to move this model up to 2 inches. The model that made the attack may choose a new target or weapon. | 12 |
 | Gunfighter | This model may make 2 attack actions in a row when using a Revolver if it does not move during its activation. | 15 |
@@ -85,5 +85,5 @@ This model may take up to 20 dollars of **weapons** and **upgrades**.
 | Steady Hands | This model only suffers a -2 to draws for the Rush Penalty. | 12 |
 | Mounted Combat | This model gains +2 to attack rolls when using Assault weapons while mounted on a Horse. | 8 |
 | Move It! | One use. After this model completes it's activation, you may immediately activate another of your models before your opponent may activate one of theirs. | 10 |
-| Runner | This model has a Movement of 5". | 7 |
+| Runner | This model has a Movement of 6". | 7 |
 | Climber | This model suffers no movement penalty for moving vertically on Climbable terrain and may climb impassable terrain at the cost of 2 inches of movement for each height level so long as there is clear terrain to be placed upon. | 10 |
