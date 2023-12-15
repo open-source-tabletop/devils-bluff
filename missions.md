@@ -38,11 +38,14 @@ Rivalry is everywhere in Solitude, as soon as one opponent is dealt with another
 
 #### Setup
 
-After setting up the terrain a single **control objective** is placed in the centre of the table. Players draw, with the winner choosing one of the table edges, the other player takes the opposing table edge. Each player may place an entry point anywhere on their table edge.
+After setting up the terrain a single **control objective** is placed in the centre of the table. 
+Players draw, with the winner choosing one of the table edges, the other player takes the opposing table edge. In the same order each player places an entry point anywhere on their table edge then each player places an access objective within 9 inches of their opponents entry point.
 
 #### Objectives
 
-The control objective is worth 2 Victory Points at the end of each round it is secured.
+The control objective is worth 3 Victory Points at the end of each round it is secured. If there are no enemy models within 6 inches of the objective then it is worth 4 Victory Points.
+
+Players may also secure the Access objective they placed, but may not secure the one the opponent placed. This is scored as soon as it is swcured and is worth 5 Victory Points.
 
 ---
 
