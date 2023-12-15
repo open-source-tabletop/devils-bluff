@@ -14,8 +14,6 @@ All 'rolls' in the core rules are referred to as **'draws'** in this game. At th
 
 Cards are numbered according to their value regardless of suit with the Jack, Queen, and King having a value of 11, 12, and 13 respectively. Unless otherwise specified any rule that would require **a roll of 6 requires a draw of 13** instead, for any modifier that is not specifically mentioned in these rules the **modifier is doubled** - so -1 would become -2 and so on.
 
-If a player is required to draw a certain value but fails to do so, they have an additional chance for success if they can **play a set or a sequence** of cards that add up to an amount that is required for success, that can count as a single success. A set of cards is 3 or 4 cards of the same value. A sequence is combination of 3 or 4 cards that have consecutive values and alternate from black and red suits (such as the 3 of hearts, 4 of clubs, and 5 of diamonds).
-
 ### The Hand
 
 At the start of the game, after shuffling the deck, each player draws 3 cards, keeping their faces hidden from the other players. Any time a player draws a card, they may instead swap it with one in their hand. In this way players have partial control of the action in the game.
@@ -59,6 +57,10 @@ Counter rolls have the following modified values for drawing cards:
 | Damage is equal to Toughness                 | 9+           |
 | Damage is higher than Toughness              | 11+          |
 | Damage is double, or higher, than Toughness  | 13           |
+
+## Objectives
+
+Objectives in Devil's Bluff are secured on a successful Skill Draw rather than a fixed value.
 
 ## Routing
 
