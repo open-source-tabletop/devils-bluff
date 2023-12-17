@@ -43,7 +43,7 @@ This model may take up to 50 dollars of **weapons**, **special weapons**, and **
 | :--------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------- | :----: | :--: |
 | Hired Gun  |  4  |  4" |  9+ | 10+ |  3  |  1  |                    | 2+     | 35   |
 
-This model may take up to 20 dollars of **weapons** and **upgrades**.
+This model may take up to 20 dollars of **weapons**.
 
 ---
 
@@ -51,10 +51,10 @@ This model may take up to 20 dollars of **weapons** and **upgrades**.
 
 | Weapon            | Rng | Att | Dmg | Prc | Special Rules                    | Cost |
 | :---------------- | :-: | :-: | :-: | :-: | :------------------------------- | :--: |
-| Revolver          | 6"  |  2  |  4  |  1  | Assault, Longshot                | 6    |
 | Dual Pistols      | 6"  |  3  |  4  |  1  | Assault, Longshot                | 9    |
-| Rifle             | 18" |  2  |  5  |  2  | Rending (1)                      | 10   |
-| Shotgun           | 8"  |  3  |  6  |  2  |                                  | 16   |
+| Revolver          | 6"  |  2  |  4  |  1  | Assault, Longshot                | 6    |
+| Rifle             | 18" |  2  |  5  |  2  | Rending (1)                      | 12   |
+| Shotgun           | 8"  |  3  |  6  |  2  |                                  | 18   |
 | Knife             | 1"  |  3  |  3  |  1  | Assault                          | 4    |
 | Fists             | 1"  |  1  |  2  |  0  | Assault                          | 0    |
 
@@ -64,10 +64,10 @@ This model may take up to 20 dollars of **weapons** and **upgrades**.
 
 | Weapon            | Rng | Att | Dmg | Prc | Special Rules                    | Cost |
 | :---------------- | :-: | :-: | :-: | :-: | :------------------------------- | :--: |
-| Precision Pistol  | 9"  |  2  |  4  |  1  | Accurate, Assault, Longshot      | 10   |
-| Hunting Rifle     | 12" |  2  |  4  |  2  | Accurate, Longshot, Rending (1)  | 18   |
-| Dynamite          | 6"  |  3  |  6  |  4  | Blast (2), One use, Shred        | 12   |
 | Bowie Knife       | 1"  |  3  |  4  |  1  | Assault, Rending (1)             | 7    |
+| Dynamite          | 6"  |  3  |  6  |  4  | Blast (2), One use, Shred        | 12   |
+| Hunting Rifle     | 12" |  2  |  4  |  2  | Accurate, Longshot, Rending (1)  | 21   |
+| Precision Pistol  | 9"  |  2  |  4  |  1  | Accurate, Assault, Longshot      | 10   |
 
 ---
 
@@ -75,15 +75,15 @@ This model may take up to 20 dollars of **weapons** and **upgrades**.
 
 | Upgrade | Effect | Cost |
 | :------ | :----- | :--: |
-| Aces Wild | One per gang. This model may count Aces as 11 when making a draw. | 20 |
 | Armoured Plates | One per gang. This model has a Defence of 8+. | 15 |
-| Quick Draw | One use, when this model is targeted in an attack it may immediately make a free attack action with a Revolver. | 15 |
+| Aces Wild | One per gang. This model may count Aces as 11 when making a draw. | 20 |
+| Climber | This model suffers no movement penalty for moving vertically on Climbable terrain and may climb impassable terrain at the cost of 2 inches of movement for each height level so long as there is clear terrain to be placed upon. | 10 |
 | Dodge Roll | When this model is targeted in for an attack with and Assault weapon, you may spend 1 Command Point to move this model up to 2 inches. The model that made the attack may choose a new target or weapon. | 12 |
 | Gunfighter | This model may make 2 attack actions in a row when using a Revolver if it does not move during its activation. | 15 |
 | Horse | This model gains the benefits of being mounted on a horse as outlined above. You may have a maximum of 2 horses in your gang. | 16 |
 | Intuition | One use. Only one model in your gang may have this upgrade. Your opponent must reveal all of the cards in their hand. | 10 |
-| Steady Hands | This model only suffers a -2 to draws for the Rush Penalty. | 12 |
 | Mounted Combat | This model gains +2 to attack rolls when using Assault weapons while mounted on a Horse. | 8 |
 | Move It! | One use. After this model completes it's activation, you may immediately activate another of your models before your opponent may activate one of theirs. | 10 |
+| Quick Draw | One use, when this model is targeted in an attack it may immediately make a free attack action with a Revolver. | 15 |
 | Runner | This model has a Movement of 6". | 7 |
-| Climber | This model suffers no movement penalty for moving vertically on Climbable terrain and may climb impassable terrain at the cost of 2 inches of movement for each height level so long as there is clear terrain to be placed upon. | 10 |
+| Steady Hands | This model only suffers a -2 to draws for the Rush Penalty. | 12 |
